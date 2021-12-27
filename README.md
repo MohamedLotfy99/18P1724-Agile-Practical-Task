@@ -4,6 +4,12 @@ Git repo for agile practical examination
 ## Product Name: 
 League 3rd party application
 
+## Team members:
+| Name          |       Role       | Expertise        |
+| ------------- | -------------    | -------------    |
+| Mohamed Adel  | Data collection  | Data acquisition |
+| Deif Amr      | Data filtering   | Python           |
+
 ## Stakeholders: 
 League players, software admins, and application users
 
