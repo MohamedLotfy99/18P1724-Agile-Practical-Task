@@ -8,7 +8,15 @@ League 3rd party application
 | Name          |       Role       | Expertise        |
 | ------------- | -------------    | -------------    |
 | Mohamed Adel  | Data collection  | Data acquisition |
+| Hazem Amir    | Data collection  | Data mining      |
 | Deif Amr      | Data filtering   | Python           |
+| Adel Idris    | Tester           | JavaScript       |
+| Mohamed Ehab  | UI Designer      | HTML/CSS         |
+| Seif Ayoub    | UI Designer      | GUI, API         |
+| Mohsen Ayman  | UX Designer      | Dreamweaver      |
+| Ahmed Sayed   | Front-End        | C, Java, Python  |
+| Ehab Mourad   | Back-End         | Java, PHP        |
+| Nelly Ahmed   | Portability      | IOS, android     |
 
 ## Stakeholders: 
 League players, software admins, and application users
