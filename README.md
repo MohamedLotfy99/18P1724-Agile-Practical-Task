@@ -58,3 +58,5 @@ All stories in product backlog are orederd by putting the more important stories
 ## Story points per sprint estimation:
 The team is estimated to complete between 15 to 20 story points per sprint, this is done by calculating the team velocity range -using the team's historical velocity data- in order to communicate our uncertainty.
 
+## Workflow design rationale:
+As for the rationale behind this diagram is that one of the agile basic practices is (Test-driven Development), Test-driven supports developers to build automated units which makes it possible to test at any stage of development and verify backward compatibility
