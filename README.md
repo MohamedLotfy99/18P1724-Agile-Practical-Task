@@ -54,3 +54,7 @@ These 4 user stories are in the 2nd sprint because they are less valuable than t
 15- API knowledge acquistion
 
 All stories in product backlog are orederd by putting the more important stories at the top, however stories like the ones from number 9 to 15 their order may be changed later as more valuable user stories may get added or the values of current ones change either increase or decrease.
+
+## Story points per sprint estimation:
+The team is estimated to complete between 15 to 20 story points per sprint, this is done by calculating the team velocity range -using the team's historical velocity data- in order to communicate our uncertainty.
+
