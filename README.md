@@ -64,19 +64,29 @@ As for the rationale behind this diagram is that one of the agile basic practice
 ## Sprint Document:
 ### Sprint 1:
 In this sprint, the main objective is to implement most of the application statistics such as:
+
 •	Role win rate
+
 •	Counter of mutual games
+
 •	Time series analysis
+
 •	Show previous ranked seasons
+
 So basically, it should provide a working 3rd party application that provide both in-game and out of game help and statistics to improve the user experience.
 
 ### Sprint 2: 
 In the previous sprint, all the required stories were successfully implemented and tested featuring a working application which provides statistics and in-game help for the user.
 
 In this sprint, the main objective is to focus more on the in-game features of the app along with more statistics such as:
+
 •	Items statistical analysis 
+
 •	Champions tier list 
+
 •	Match history tracker
+
 •	Interactive build suggestion
+
 So basically, it should add the in-game features to the application and focus more on the GUI and UX of the application.
 
